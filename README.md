@@ -29,3 +29,6 @@ HTML, CSS, JavaScript, OpenWeather API.
 🚀 Simple & intuitive.
 ⏱️ Quick weather updates.
 📚 Learning with real API.
+
+**Live Link**
+https://riteshyadavg.github.io/WeatherLy-ritesh.github.io/
